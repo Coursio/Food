@@ -1,6 +1,6 @@
 Food
 ====
 
-Version 0000000000000000.1
+Version 0.1
 
 Randomly choose a restaurant. :-)
